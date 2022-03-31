@@ -1,7 +1,7 @@
-Hi! I`m Anna Przastek. 
+##**Hi! I`m Anna Przastek.**
 
-I like to code things from scratch and enjoy bringing ideas to life in the browser. I look for creative ways to push the boundaries of website front-end code without compromising on browser support and performance. I`m a person with high attention to details. I`m highly-motivated, result oriented, self-driven and hard-working person.
-I`m familiar with HTML5, CSS (Bootstrap, Fundation,Sass, Less), JavaScript ES6 (obj,asynch,func), Node.js (npm), Jquery. 
+\*I like to code things from scratch and enjoy bringing ideas to life in the browser. I look for creative ways to push the boundaries of website front-end code without compromising on browser support and performance. I`m a person with high attention to details. I`m highly-motivated, result oriented, self-driven and hard-working person.
+I`m familiar with **HTML5, CSS (Bootstrap, Fundation,Sass, Less), JavaScript ES6 (obj,asynch,func), Node.js (npm), Jquery**. 
 I`m fast learner and I`m open for constructive opinions/advice. 
 
 I`m currently learning and exercise my skills in React and Vue. In future I want to be a full-stack.
@@ -16,4 +16,4 @@ Art mean freedom to me. My work is my passion and I know how to mix front-end, u
 
 I prefer to work remotely from my home in Sint-Niklaas (Belgium). I`m very well-organized person. You can count on me! So dont hestitate to write to me :) 
 
-Privately, I`m a cheerful mother of a little princess, a loving wife addicted to reading books and a nerd who can spend hours in front of computer. I speak Polish and English. 
+Privately, I`m a cheerful mother of a little princess, a loving wife addicted to reading books and a nerd who can spend hours in front of computer. I speak Polish and English. *\
