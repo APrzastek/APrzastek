@@ -8,7 +8,7 @@ I`m fast learner and I`m open for constructive opinions/advice. </p>
 <hr width:50%>
 <p>I have also serious passion for UX/UI so its very important for me to make not only responsive websites but also user friendly apps.
 I`m interested in designing meaningful experiences that shape how we interact with technology. I always strive to be a better designer by contantly challenging myself. 
-I believe in design thinking. I see product design as a process of creative problem solvingwhich always put user goals and needs in the center.
+I believe in design thinking. I see product design as a process of creative problem solving which always put user goals and needs in the center.
 I`m familiar with <strong>Adobe XD, Sketch, Figma,Invision, Balsamic, User Accessibility, Bussiness UX and also with fundamentals of Psychology and Marketing</strong>.</p>
 <hr width:50%>
 <p>Few years ago before I made my road-map of Front-end Development and UX/UI design, I started to work as a freelancer in graphic design. I make paintings (almost all are sold out!) and digital art. Meanwhile I also started to design logos, brochures, etc. 
