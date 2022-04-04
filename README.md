@@ -1,10 +1,10 @@
 <h2><strong>Hi! I`m Anna Przastek.</strong></h2>
 
 <p>I like to code things from scratch and enjoy bringing ideas to life in the browser. I look for creative ways to push the boundaries of website front-end code without compromising on browser support and performance. I`m a person with high attention to details. I`m highly-motivated, result oriented, self-driven and hard-working person.
-I`m familiar with <strong>HTML5, CSS (Bootstrap, Fundation,Sass, Less), JavaScript ES6 (oop,asynch,func), Node.js (npm), Jquery, Webpack</strong>. 
+I`m familiar with <strong>HTML5, CSS (Bootstrap, Fundation,Sass, Less), React, JavaScript ES6 (oop,asynch,func), Node.js (npm), Jquery, Webpack</strong>. 
 I`m fast learner and I`m open for constructive opinions/advice. </p>
 <br>
-<p> I`m currently learning and exercise my skills in React and Vue. In future I want to be a full-stack.</p>
+<p> I`m currently learning and exercise my skills in Angular and Vue. In future I want to be a full-stack.</p>
 <hr width:50%>
 <p>I have also serious passion for UX/UI so its very important for me to make not only responsive websites but also user friendly apps.
 I`m interested in designing meaningful experiences that shape how we interact with technology. I always strive to be a better designer by contantly challenging myself. 
