@@ -27,6 +27,7 @@ Art mean freedom to me. My work is my passion and I know how to mix front-end, u
   <li><a href="https://aprzastek.github.io/Responsive-e-mail-example/">Newsletter example</a></li>
   <li><a href="https://aprzastek.github.io/musicplayer/">Simple Music Player based on JS</a></li>
   <li><a href="https://aprzastek.github.io/VideoPlayer/">Example of VideoPlayer based on JS</a></l>
+  <li><a href="https://aprzastek.github.io/Counter/">Promotion counter based on JS and "canva" attribute</a></l>
   </ul>
  <p> My CodePen:</p>
  <ul>
