@@ -19,7 +19,7 @@ Art mean freedom to me. My work is my passion and I know how to mix front-end, u
 <p>Privately, I`m a cheerful mother of a little princess, a loving wife addicted to reading books and a nerd who can spend hours in front of computer. I speak Polish and English. </p>
 <br>
 <hr>
-<p>Check my repositories or click on links to see view of sample projects:</p>
+<p>Check my repositories for code or click on links to see live of sample projects:</p>
 <ul>
   <li><a href="https://aprzastek.github.io/Responsive-email-sample/"> Sample of newsletter</a></li>
   <li><a href="https://aprzastek.github.io/Bootstrap-website/">Website based on Bootstraap</a></li>
