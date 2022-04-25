@@ -21,12 +21,13 @@ Art mean freedom to me. My work is my passion and I know how to mix front-end, u
 <hr>
 <p>Check my repositories or click on links to see view of sample projects:</p>
 <ul>
-  <li>https://aprzastek.github.io/Responsive-email-sample/</li>
-  <li>https://aprzastek.github.io/Bootstrap-website/</li>
-  <li>https://aprzastek.github.io/Clean-HTML-and-CSS/</li>
-  <li>https://aprzastek.github.io/Responsive-e-mail-example/</li>
+  <li><a href="https://aprzastek.github.io/Responsive-email-sample/"> Sample of newsletter</a></li>
+  <li><a href="https://aprzastek.github.io/Bootstrap-website/">Website based on Bootstraap</a></li>
+  <li><a href="https://aprzastek.github.io/Clean-HTML-and-CSS/"> Clean HTML5 & CSS3</a></li>
+  <li><a href="https://aprzastek.github.io/Responsive-e-mail-example/">Newsletter example</a></li>
+  <li><a href="https://aprzastek.github.io/musicplayer/">Simple Music Player based on JS</a></li>
   </ul>
  <p> My CodePen:</p>
  <ul>
-  <li>https://codepen.io/collection/OLpEEN</>
+  <li><a href="https://codepen.io/collection/OLpEEN">Collection</a></li>
 </ul>
