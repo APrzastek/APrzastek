@@ -28,5 +28,5 @@ Art mean freedom to me. My work is my passion and I know how to mix front-end, u
   </ul>
  <p> My CodePen:</p>
  <ul>
-  <li><a href="https://codepen.io/collection/OLpEEN">Collection</a></li>
+  <li><a href="https://codepen.io/aprzastek/collections/">My Collection</a></li>
   </ul>
